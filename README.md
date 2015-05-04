@@ -18,3 +18,5 @@ Removes the given collaborator from all apps.
     heroku authorizations:create -d "Platform API example token"
 
 Copy the token from the command output into the other commands.
+
+&copy; 2015 Joey Aghion, Artsy (MIT license)
